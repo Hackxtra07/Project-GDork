@@ -1,0 +1,11 @@
+{
+    "pattern_weights": {
+        "site:google.com": 0.9,
+        "intext:\"manankamboj\"": 0.9,
+        "intext:\"password\"": 0.9,
+        "intext:\"username\"": 0.9,
+        "intext:\"login\"": 0.9
+    },
+    "operator_weights": {},
+    "successful_combinations": []
+}

@@ -1,0 +1,10 @@
+2026-06-12 14:43:14,970 - root - INFO - Logging initialized. Log file: logs\app_20260612.log
+2026-06-12 14:43:16,603 - __main__ - ERROR - Import error: No module named 'schedule'
+2026-06-12 14:50:12,360 - root - INFO - Logging initialized. Log file: logs\app_20260612.log
+2026-06-12 14:50:14,216 - __main__ - ERROR - Import error: No module named 'schedule'
+2026-06-12 14:58:38,889 - root - INFO - Logging initialized. Log file: logs\app_20260612.log
+2026-06-12 14:58:40,085 - __main__ - ERROR - Import error: No module named 'schedule'
+2026-06-12 15:01:40,999 - root - INFO - Logging initialized. Log file: logs\app_20260612.log
+2026-06-12 15:01:42,100 - __main__ - ERROR - Import error: No module named 'schedule'
+2026-06-12 15:01:48,582 - root - INFO - Logging initialized. Log file: logs\app_20260612.log
+2026-06-12 15:01:49,657 - __main__ - ERROR - Import error: No module named 'schedule'
